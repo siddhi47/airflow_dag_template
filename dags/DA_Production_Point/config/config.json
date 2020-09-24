@@ -1,0 +1,20 @@
+{
+    "PYTHON":"/data/venv2.1/bin/python",
+    "SCRIPT_LOCATION_VALIDATION":"/root/monitor_scripts/",
+    "SCRIPT_LOCATION":"/data/decision_analytics/v2.2/",
+    "MIGRATE_DB_SCRIPT_LOCATION":"/root/migrate_db/",
+    "AIRFLOW_HOME":"/root/airflow/",
+    "EMAIL_LIST":[
+        "processing@extensodata.com"
+    ],
+    "CRON_EXPRESSION":"35 15 1 * *",
+    "START_DATE":{
+        "year":2020,
+        "month":8,
+        "day":26,
+        "hour":0,
+        "minute":0,
+        "second":0
+
+    }
+}
