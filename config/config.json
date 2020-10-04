@@ -1,0 +1,17 @@
+{
+    "PYTHON":"/home/siddhi/anaconda3/bin/python",
+    "SCRIPT_LOCATION":"/home/siddhi/personal/dags_template/airflow_dag_template/dags/DA/scripts",
+    "AIRFLOW_HOME":"/home/siddhi/airflow/",
+    "EMAIL_LIST":[
+        "email@email.com"
+    ],
+    "CRON_EXPRESSION":"35 15 * * *",
+    "START_DATE":{
+        "year":2020,
+        "month":8,
+        "day":26,
+        "hour":0,
+        "minute":0,
+        "second":0
+    }
+}
